@@ -8,4 +8,4 @@ if idade < 18:
 elif idade > 18:
     print(f"Você já tem {idade} anos. Você deveria ter se alistado a \33[31m{idade - 18} anos\33[m em {ano + 18}.")
 elif idade == 18:
-    print("Você tem que se alistar \33[33mIMEDIATAMENTE!")
+    print("Você tem que se alistar \33[33mIMEDIATAMENTE!!")
