@@ -1,5 +1,5 @@
-maior = 0
-menor = 0
+maior = 0.0
+menor = 0.0
 
 for i in range(1, 6):
     peso = float(input(f"Digite o peso da {i}ª pessoa: "))
