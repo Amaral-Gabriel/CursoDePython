@@ -15,7 +15,3 @@ while cont != 10:
         print(f"{num}",end=" --> ")
         num += razao
         cont += 1
-
-
-
-
